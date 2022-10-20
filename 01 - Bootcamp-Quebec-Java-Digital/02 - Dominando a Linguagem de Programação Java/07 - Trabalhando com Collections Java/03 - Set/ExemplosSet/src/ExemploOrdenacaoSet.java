@@ -116,3 +116,4 @@ class ComparatorNomeGeneroTempoEpisodio implements Comparator<Serie>{
         return Integer.compare(s1.getTempoEpisodio(), s2.getTempoEpisodio());
     }
 }
+
