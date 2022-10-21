@@ -10,11 +10,10 @@ Dado uma array de valores {2, 3, 5, 7, 11, 13, 18, 34}, desenvolva um programa q
 como resultado apenas os números pares dessa array.
 
 Entrada:
-A entrada consiste em um array de números inteiros positivos.
+-A entrada consiste em um array de números inteiros positivos.
 
 Saída:
-
-A saída do desafio equivale aos números pares do Array, como mostra o exemplo a baixo:
+-A saída do desafio equivale aos números pares do Array, como mostra o exemplo a baixo:
 
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
