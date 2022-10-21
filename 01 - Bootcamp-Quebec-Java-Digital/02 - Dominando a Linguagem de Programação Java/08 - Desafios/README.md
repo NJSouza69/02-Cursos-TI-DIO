@@ -1,18 +1,21 @@
-## Getting Started
+## Desafios de Código Básico Java - Québec
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 1/3 Arrays Pares
 
-## Folder Structure
+Desafio:
 
-The workspace contains two folders by default, where:
+- O objetivo deste desafio é resolvê-lo utilizando o seu conhecimento sobre Arrays, 
+uma estrutura de dados que armazena uma coleção de dados em um bloco de memória. 
+Dado uma array de valores {2, 3, 5, 7, 11, 13, 18, 34}, desenvolva um programa que retorne 
+como resultado apenas os números pares dessa array.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Entrada
+A entrada consiste em um array de números inteiros positivos.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Saída
+A saída do desafio equivale aos números pares do Array, como mostra o exemplo a baixo:
+
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 2/3 Cálculo Simples
