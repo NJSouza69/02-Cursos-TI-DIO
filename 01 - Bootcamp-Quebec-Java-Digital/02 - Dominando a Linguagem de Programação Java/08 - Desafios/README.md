@@ -10,7 +10,6 @@ Dado uma array de valores {2, 3, 5, 7, 11, 13, 18, 34}, desenvolva um programa q
 como resultado apenas os números pares dessa array.
 
 Entrada:
-
 A entrada consiste em um array de números inteiros positivos.
 
 Saída:
