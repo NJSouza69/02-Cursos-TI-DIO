@@ -9,10 +9,12 @@ uma estrutura de dados que armazena uma coleção de dados em um bloco de memór
 Dado uma array de valores {2, 3, 5, 7, 11, 13, 18, 34}, desenvolva um programa que retorne 
 como resultado apenas os números pares dessa array.
 
-Entrada
+Entrada:
+
 A entrada consiste em um array de números inteiros positivos.
 
-Saída
+Saída:
+
 A saída do desafio equivale aos números pares do Array, como mostra o exemplo a baixo:
 
 
