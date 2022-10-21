@@ -22,7 +22,7 @@ public class ExerciciosStreamAPI {
 //                .limit(5)
 //                .collect(Collectors.toSet())
 //                .forEach(System.out::println);
-//        Set<String> numerosAleatorios5Primeiros = numerosAleatorios.stream()
+//        Set<String> numerosAleatorios5Primeiros = numerousAleatorios.stream()
 //                .limit(5)
 //                .collect(Collectors.toSet());
 //        System.out.println(numerosAleatorios5Primeiros);
