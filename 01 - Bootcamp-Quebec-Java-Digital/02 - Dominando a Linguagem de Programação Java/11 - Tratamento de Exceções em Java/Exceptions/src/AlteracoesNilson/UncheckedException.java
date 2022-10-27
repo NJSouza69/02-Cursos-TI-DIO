@@ -1,4 +1,4 @@
-package ExemplosCamila;
+package AlteracoesNilson;
 
 import javax.swing.*;
 
@@ -12,7 +12,7 @@ public class UncheckedException {
             String b = JOptionPane.showInputDialog("Denominador: ");
 
             try{
-                int resultado = dividir(Integer.parseInt(a), Integer.parseInt(b));
+                double resultado = dividir(Double.parseDouble(a), Double.parseDouble(b));
                 System.out.println("Resultado: " + resultado);
                 continueLooping = false;
             } catch (NumberFormatException e) {
@@ -33,7 +33,7 @@ public class UncheckedException {
         System.out.println("O código continua...");
     }
 
-    public static int dividir(int a, int b) {
+    public static double dividir(double a, double b) {
         return a / b;
     }
 }
