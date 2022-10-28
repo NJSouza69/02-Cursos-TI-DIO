@@ -1,5 +1,8 @@
 <h1>
 TRATAMENTO DE EXCEÇÕES EM JAVA</h1>
+------------
+Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+------------
 
 <p>Curso que apresenta conceitos introdutórios sobre como podemos identificar e tratar Exceptions na linguagem Java. 
 Curso este ministrado por mim em nome da <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE  </a></strong> 🧡💛 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
