@@ -57,13 +57,13 @@ class ImpossivelAberturaDeArquivoException extends Exception {
         this.diretorio = diretorio;
     }
 
-    /*@Override
+    @Override
     public String toString() {
         return "ImpossivelAberturaDeArquivoException{" +
                 "nomeDoArquivo='" + nomeDoArquivo + '\'' +
                 ", diretorio='" + diretorio + '\'' +
                 '}';
-    }*/
+    }
 
 }
 
