@@ -8,4 +8,9 @@ Fundamentos de banco de dados
 
 [Documentação Completa](https://www.postgresql.org//docs/manuals/)
 
-[Connecting to PostgreSQL and documentation](https://www.enterprisedb.com/postgresql-tutorial-resources-training?uuid=7ce7e93f-e1eb-4e42-85fa-84c0c98859ee&campaignId=7012J000001h3GiQAI)
+[Getting started with Postgres in your React app](https://blog.logrocket.com/getting-started-with-postgres-in-your-react-app/)
+
+[Getting started with Postgres in your Angular app](https://medium.com/swlh/angular-node-and-postgresql-4a07d597be07)
+
+[Getting started with Postgres in your Spring app](https://www.codejava.net/frameworks/spring-boot/connect-to-postgresql-database-examples)
+
